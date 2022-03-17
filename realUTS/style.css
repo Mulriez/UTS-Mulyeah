@@ -1,0 +1,105 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.wrapper{
+  height: 1000px;
+}
+#merah1{
+    width: 1550px;
+    height: 30px;
+    background-color: red;
+    border: 2px solid black;
+}
+.gambar1 img{
+    width: 1300px;
+    height: 370px;
+    margin-top: 30px;
+    border-radius: 2.4em;
+}
+.garis{
+    width: 1300px;
+    height: 30px;
+    background-color: red;
+    border-radius: 5px;
+    border-style: solid;
+}
+.y1{
+    margin-left: 115px ;
+    margin-top: 30px;
+}
+.artikel{
+    width: 1300px;
+    height: 160px;
+    margin-top: 25px;
+    margin-left: 115px;
+}
+.pertama h1{
+    padding-left: 2%;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-left: 155px;
+}
+.pertama img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    border-radius: 5px;
+    border-style: solid;
+}
+.pertama p{
+    padding-left: 2%;
+    width: 600px;
+    margin-left: 155px;
+}
+.kedua h1{
+    padding-left: 2%;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-left: 155px;
+}
+.kedua img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    border-radius: 5px;
+    border-style: solid;
+}
+.kedua p{
+    padding-left: 2%;
+    width: 600px;
+    margin-left: 155px;
+}
+.ketiga h1{
+    padding-left: 2%;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-left: 155px;
+}
+.ketiga img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    border-radius: 5px;
+}
+.ketiga p{
+    padding-left: 2%;
+    width: 600px;
+    margin-left: 155px;
+}
+.y2{
+    margin-left: 115px;
+    margin-top: 25px;
+}
+.copyright{
+    width: 1300px;
+    height: 170px;
+    background-color: black;
+    margin-left: 118px;
+}
+.copyright h3{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-family: sans-serif;;
+}
